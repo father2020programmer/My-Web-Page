@@ -5,7 +5,7 @@ body {
     font-family: 'Noto Sans TC', sans-serif;
     font-size: 1em;
     color: #1a454e;
-    background-color: #cfd3ce;
+    background-color:  #e9e4d7;
 
 }
 
@@ -59,7 +59,7 @@ a:hover {
 /*Top container*/
 
 .top-container {
-    background-color: #cfd3ce;
+    background-color: #e9e4d7;
     padding-top: 15%;
     padding-bottom: 10%;
     position: relative;
